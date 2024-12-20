@@ -1,4 +1,5 @@
-# CRUEP Echo Chambers of Relevance: Predicting User Engagement via Compressed Retrieval Knowledge Augmentation
+# CRUEP 
+# Echo Chambers of Relevance: Predicting User Engagement via Compressed Retrieval Knowledge Augmentation
 
 ## Environmental Settings
 
